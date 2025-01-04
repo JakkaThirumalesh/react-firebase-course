@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyACcTwzTaSKj434CQEqrSmVh79i57mlU1c",
+  apiKey: "API_KEY",
   authDomain: "fir-course-99ed4.firebaseapp.com",
   projectId: "fir-course-99ed4",
   storageBucket: "fir-course-99ed4.firebasestorage.app",
